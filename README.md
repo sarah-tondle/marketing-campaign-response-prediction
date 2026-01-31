@@ -91,8 +91,4 @@ Two dashboards were created:
 
 👤 Author
 Sarah Tondle
-Data Science / Analytics Portfolio Project
 
-
-* Review your dashboards like a hiring manager
-* Make a **short “How to use this repo” section**
