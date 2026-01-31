@@ -64,6 +64,7 @@ Created clean, analysis-ready CSV files for Tableau
 Built interactive dashboards to communicate insights to business stakeholders
 
 📊 Tableau Dashboards
+
 Dashboard 1: Marketing Campaign Overview
 
 Customer distribution by job and demographics
@@ -85,13 +86,13 @@ Model performance comparison (ROC-AUC)
 High-probability customer segmentation
 
 🗂️ Repository Structure
-├── marketcampaignresponseprediction.ipynb   # Data preparation & ML modeling
-├── tableau_marketing_clean_data.csv         # Cleaned marketing dataset
-├── tableau_predictions_clean.csv            # Model prediction outputs
-├── model_comparison.csv                     # Model performance metrics
-├── marketingresponse.twb                    # Tableau workbook
-├── DATA_SOURCE.md                           # Dataset reference & attribution
-└── README.md
+marketcampaignresponseprediction.ipynb   # Data preparation & ML modeling
+tableau_marketing_clean_data.csv         # Cleaned marketing dataset
+tableau_predictions_clean.csv            # Model prediction outputs
+model_comparison.csv                     # Model performance metrics
+marketingresponse.twb                    # Tableau workbook
+DATA_SOURCE.md                           # Dataset reference & attribution
+README.md
 
 🛠️ Tools & Technologies
 
