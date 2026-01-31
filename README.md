@@ -29,6 +29,7 @@ UCI Machine Learning Repository – Bank Marketing Dataset
 (Referenced in DATA_SOURCE.md; raw data is not redistributed.)
 
 ⚙️ Project Workflow
+
 1️⃣ Data Cleaning & Feature Engineering
 
 Handled missing and unknown values
@@ -86,13 +87,13 @@ Model performance comparison (ROC-AUC)
 High-probability customer segmentation
 
 🗂️ Repository Structure
-marketcampaignresponseprediction.ipynb   # Data preparation & ML modeling
-tableau_marketing_clean_data.csv         # Cleaned marketing dataset
-tableau_predictions_clean.csv            # Model prediction outputs
-model_comparison.csv                     # Model performance metrics
-marketingresponse.twb                    # Tableau workbook
-DATA_SOURCE.md                           # Dataset reference & attribution
-README.md
+1.marketcampaignresponsepred.ipynb - Data preparation & ML modeling
+2.tableau_marketing_clean_data.csv - Cleaned marketing dataset
+3.tableau_predictions_clean.csv - Model prediction outputs
+4.model_comparison.csv - Model performance metrics
+5.marketingresponse.twb - Tableau workbook
+6.DATA_SOURCE.md - Dataset reference & attribution
+7.README.md
 
 🛠️ Tools & Technologies
 
